@@ -30,7 +30,7 @@ public class Utility {
                     province.setProvinceCode(array[0]);
                     province.setProvinceName(array[1]);
 
-                    //将解析出来的数据存储在Province类
+                    //将解析出来的数据存储在数据库
                     coolWeatherDB.saveProvince(province);
                 }
                 return true;

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="net_address" type="string">http://www.weather.com.cn/data/list3/city</item>
+    <!--<item name="net_address" type="string">http://www.weather.com.cn/data/sk/</item>-->
+</resources>
